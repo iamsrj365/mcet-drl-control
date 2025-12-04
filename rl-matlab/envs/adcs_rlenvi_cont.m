@@ -108,7 +108,7 @@ end
 
 
 % Additional Parameters
-% These mimic the init settings
+% Mimic the init settings
 params.torqueScale = 0.5;
 params.frameskipNum = 20;
 params.maxAngleSlew = 150;  % degrees
